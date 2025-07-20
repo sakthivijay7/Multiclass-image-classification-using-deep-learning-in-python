@@ -30,7 +30,6 @@ Model saved in h5(Hierarchical file)
 
 - **Result:**
 Model got at `85% accuracy` of training and `validation 65%` (Improvement need)
-![lion](https://github.com/user-attachments/assets/4e592d52-e10a-4f2c-b17c-24e6ab22358d)
 
 - **Improvements:**
 Model train well but validation to be low perform ,need improvement of images size,datasets and will use earlystopping for prevent overfitting.
@@ -38,6 +37,8 @@ Model train well but validation to be low perform ,need improvement of images si
 - **Deployment:**
 Streamlit UI for user upload the  image to classification.
 ![ui](https://github.com/user-attachments/assets/941c25eb-292b-47c9-ab65-88437439771d)
+
+![lion](https://github.com/user-attachments/assets/4e592d52-e10a-4f2c-b17c-24e6ab22358d)
 
 
 
